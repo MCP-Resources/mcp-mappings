@@ -1,0 +1,2 @@
+# mcp-mappings
+MCP Mappings
